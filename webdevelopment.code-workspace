@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"name": "Parsing",
+			"path": "Parsing"
+		},
+		{
+            "name": "Configs (Root)",
+            "path": "."
+        },
+	],
+	"settings": {
+		   "files.exclude": {
+            "**/.git": true,
+            "**/node_modules": true,
+            "**/dist": true
+        },
+	},
+	"extensions": {
+        "recommendations": [
+            "msjsdiag.debugger-for-chrome",
+            "ms-azuretools.vscode-docker",
+            "ms-vscode.vscode-typescript-tslint-plugin",
+            "mhutchie.git-graph",
+            "esbenp.prettier-vscode"
+        ]
+    }
+}
